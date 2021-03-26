@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/rahulsynth/static/css/main.f55d5b6c.chunk.css",
-    "main.js": "/rahulsynth/static/js/main.f588f028.chunk.js",
-    "main.js.map": "/rahulsynth/static/js/main.f588f028.chunk.js.map",
+    "main.css": "/rahulsynth/static/css/main.92336bbc.chunk.css",
+    "main.js": "/rahulsynth/static/js/main.6b794f33.chunk.js",
+    "main.js.map": "/rahulsynth/static/js/main.6b794f33.chunk.js.map",
     "runtime-main.js": "/rahulsynth/static/js/runtime-main.208cfd61.js",
     "runtime-main.js.map": "/rahulsynth/static/js/runtime-main.208cfd61.js.map",
     "static/js/2.ca767b67.chunk.js": "/rahulsynth/static/js/2.ca767b67.chunk.js",
@@ -10,14 +10,13 @@
     "static/js/3.24bb530a.chunk.js": "/rahulsynth/static/js/3.24bb530a.chunk.js",
     "static/js/3.24bb530a.chunk.js.map": "/rahulsynth/static/js/3.24bb530a.chunk.js.map",
     "index.html": "/rahulsynth/index.html",
-    "static/css/main.f55d5b6c.chunk.css.map": "/rahulsynth/static/css/main.f55d5b6c.chunk.css.map",
-    "static/js/2.ca767b67.chunk.js.LICENSE.txt": "/rahulsynth/static/js/2.ca767b67.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/rahulsynth/static/media/logo.6ce24c58.svg"
+    "static/css/main.92336bbc.chunk.css.map": "/rahulsynth/static/css/main.92336bbc.chunk.css.map",
+    "static/js/2.ca767b67.chunk.js.LICENSE.txt": "/rahulsynth/static/js/2.ca767b67.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.208cfd61.js",
     "static/js/2.ca767b67.chunk.js",
-    "static/css/main.f55d5b6c.chunk.css",
-    "static/js/main.f588f028.chunk.js"
+    "static/css/main.92336bbc.chunk.css",
+    "static/js/main.6b794f33.chunk.js"
   ]
 }
