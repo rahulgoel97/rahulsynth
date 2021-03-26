@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  background-color:#222;
+  color:#eb0450;
+  padding: 10px 10px;
+  margin: 10px 10px;
+  border:none;
+  border-radius: 50px;
+  
+
 }
 
 .App-logo {
@@ -26,6 +34,46 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.SynthInput{
+  color: white;
+  opacity: 65%;
+  border:none;
+}
+
+.playbutton{
+  margin: 2rem 2rem;
+  opacity: 100%;
+  border: none;
+  width: 15rem;
+  height: 5rem;
+  font-size: 2rem;
+  text-decoration: bold;
+  border-radius:0px;
+  box-shadow: 4px 4px 50px 15px #eb0450;
+  blur: 20px;
+}
+
+.noteInput{
+  border-radius:0px;
+  border: none;
+  width: 10rem;
+  height: 2rem;
+}
+
+.leftInput{
+float:left;
+width:50%;  
+}
+
+.rightInput{
+  float:right;
+  width:50%;
+}
+
+.mainLogo{
+  margin-top: 150px;
 }
 
 @keyframes App-logo-spin {
